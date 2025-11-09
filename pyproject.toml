@@ -1,0 +1,16 @@
+[project]
+name = "mem0-convo-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "langchain>=1.0.5",
+    "langchain-openai>=1.0.2",
+    "langgraph>=1.0.2",
+    "mem0ai>=1.0.0",
+    "openai>=2.7.1",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.51.0",
+]

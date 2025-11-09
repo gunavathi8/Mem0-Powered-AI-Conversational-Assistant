@@ -1,0 +1,8 @@
+mem0ai
+python-dotenv
+langchain
+langgraph
+openai
+langchain-openai
+ipykernel
+streamlit
